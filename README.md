@@ -46,4 +46,4 @@ Se o número que você escolheu for muito alto ou muito baixo em relação ao n�
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/Augustin-Cyber-Dev/numero-secreto) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
