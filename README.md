@@ -44,6 +44,16 @@ Se o número que você escolheu for muito alto ou muito baixo em relação ao n�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 
 
-## Acesso ao projeto
+## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/Augustin-Cyber-Dev/numero-secreto) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/Augustin-Cyber-Dev/numero-secreto).
+
+
+## 🛠️ Abrir e rodar o projeto
+
+[baixe aqui](https://github.com/Augustin-Cyber-Dev/numero-secreto/archive/refs/heads/main.zip).
+
+
+# Autores
+| [<img src=
+| :---: |
